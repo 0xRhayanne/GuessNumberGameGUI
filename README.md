@@ -1,4 +1,10 @@
-# GuessNumberGameGUI
-Welcome to Guess Number Game GUI, a fun, interactive guessing game built in Java Swing using NetBeans IDE.
+# 🧮 Guess Number Game GUI - Interactive guessing game.
 
-Try to guess the secret number between 1 and 100 while the game gives you live feedback and celebrates your victory .🥳
+- 🕹️ Features;
+- 🧠 Random number generation between 1 and 100;
+- 🪄 Real-time feedback (too high / too low);
+- 🏆 Win message with celebratory GIF animation;
+- 📊 Attempt counter;
+- 🖼️ Beautiful background image and clean UI;
+- 🧼 Feedback history with auto-clear after 5 messages;
+- 💻 GUI built using Java Swing.
