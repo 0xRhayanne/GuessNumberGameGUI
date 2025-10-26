@@ -8,3 +8,21 @@
 - 🖼️ Beautiful background image and clean UI;
 - 🧼 Feedback history with auto-clear after 5 messages;
 - 💻 GUI built using Java Swing.
+
+---
+
+# 🧰 Project Structure
+
+```
+GuessNumberGameGUI/
+├── src/
+│   └── guessnumbergamegui/
+│       └── GuessNumberGameGUI.java
+├── images/
+│   ├── background.jpg
+│   └── dance.gif
+├── nbproject/                # NetBeans project files
+└── README.md
+
+
+```
