@@ -26,3 +26,12 @@ GuessNumberGameGUI/
 
 
 ```
+---
+
+# 🚀 Getting Started
+
+✅ Prerequisites
+
+- Java 8+;
+- NetBeans IDE (or any IDE supporting Java Swing);
+- Git (optional).
