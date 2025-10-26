@@ -35,3 +35,20 @@ GuessNumberGameGUI/
 - Java 8+;
 - NetBeans IDE (or any IDE supporting Java Swing);
 - Git (optional).
+
+---
+
+# 🛠️ How to Run (NetBeans)
+
+1. Clone or download this repository:
+
+```
+
+git clone https://github.com/yourusername/GuessNumberGameGUI.git
+
+```
+2. Open the project in NetBeans IDE;
+3. Right-click the project in the Projects panel;
+4. Select Run (or press Shift + F6).
+
+🎉 The game window will appear with the background image and input field ready for your guesses.
