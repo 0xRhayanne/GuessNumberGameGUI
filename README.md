@@ -70,5 +70,22 @@ When you guess correctly:
 o(≧▽≦)o Correct! You guessed it in X attempts.
 ✩₊˚.⋆☾⋆⁺₊✧
 ```
----
 The dancing GIF (dance.gif) will appear to celebrate your win 🪩.
+
+---
+
+# 🧭 How It Works
+
+On startup, the program generates a random number between 1 and 100.
+The user types a guess into the input field and clicks Submit.
+
+The game:
+
+- Increments the attempt counter;
+- Gives feedback (too high / too low).
+
+And if guessed correctly:
+
+- Displays a congratulatory message 🎉;
+- Shows a dancing animation 🕺;
+- Disables further input until Reset is pressed.
