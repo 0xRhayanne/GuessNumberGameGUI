@@ -52,3 +52,21 @@ git clone https://github.com/yourusername/GuessNumberGameGUI.git
 4. Select Run (or press Shift + F6).
 
 🎉 The game window will appear with the background image and input field ready for your guesses.
+---
+
+# 🖼️ Gameplay Preview
+
+When you guess incorrectly:
+
+```
+(⊙_⊙) Too high! Try again.
+(╥ω╥) Too low! Try again.
+❌ Please enter a valid number.
+```
+
+When you guess correctly:
+
+```
+o(≧▽≦)o Correct! You guessed it in X attempts.
+✩₊˚.⋆☾⋆⁺₊✧
+```
