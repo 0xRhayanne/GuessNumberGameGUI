@@ -70,3 +70,5 @@ When you guess correctly:
 o(≧▽≦)o Correct! You guessed it in X attempts.
 ✩₊˚.⋆☾⋆⁺₊✧
 ```
+---
+The dancing GIF (dance.gif) will appear to celebrate your win 🪩.
