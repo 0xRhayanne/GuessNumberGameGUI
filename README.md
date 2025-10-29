@@ -100,3 +100,13 @@ Click "Reset Game" to:
 - Reset attempts to 0;
 - Clear feedback messages;
 - Hide the GIF animation.
+
+---
+
+# 🖼️ Customizing the UI
+
+You can easily modify the look of the game:
+
+- Replace ```images/background.jpg``` with your own background;
+- Replace ```images/dance.gif``` with your own celebration animation;
+- Change colors, fonts, or layout directly in ```GuessNumberGameGUI.java```
