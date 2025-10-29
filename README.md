@@ -89,3 +89,14 @@ And if guessed correctly:
 - Displays a congratulatory message 🎉;
 - Shows a dancing animation 🕺;
 - Disables further input until Reset is pressed.
+
+---
+
+# 🪄 Resetting the Game
+
+Click "Reset Game" to:
+
+- Generate a new secret number;
+- Reset attempts to 0;
+- Clear feedback messages;
+- Hide the GIF animation.
