@@ -110,3 +110,10 @@ You can easily modify the look of the game:
 - Replace ```images/background.jpg``` with your own background;
 - Replace ```images/dance.gif``` with your own celebration animation;
 - Change colors, fonts, or layout directly in ```GuessNumberGameGUI.java```
+---
+
+# 🐞 Known Limitations
+
+- The window size is fixed (```1280x820```);
+- The game only supports integers between 1 and 100;
+- If the background image is missing, the game still runs with a default background.
