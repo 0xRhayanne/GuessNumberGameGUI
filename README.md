@@ -44,7 +44,7 @@ GuessNumberGameGUI/
 
 ```
 
-git clone https://github.com/yourusername/GuessNumberGameGUI.git
+git clone https://github.com/0xRhayanne/GuessNumberGameGUI.git
 
 ```
 2. Open the project in NetBeans IDE;
@@ -117,3 +117,12 @@ You can easily modify the look of the game:
 - The window size is fixed (```1280x820```);
 - The game only supports integers between 1 and 100;
 - If the background image is missing, the game still runs with a default background.
+---
+
+# 🧭 Future Improvements (Ideas)
+
+- ⌨️ Keyboard shortcuts (e.g., Enter to reset);
+- 🌈 Theme customization (dark/light mode);
+- 🏅 Scoreboard or history of games;
+- 🔊 Sound effects for guesses and wins;
+- 🌍 Multi-language support.
