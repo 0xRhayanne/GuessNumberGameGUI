@@ -126,3 +126,10 @@ You can easily modify the look of the game:
 - 🏅 Scoreboard or history of games;
 - 🔊 Sound effects for guesses and wins;
 - 🌍 Multi-language support.
+---
+
+# 🙌 Acknowledgments
+
+- 🖼️ UI built with Java Swing;
+- 🧠 Inspired by classic number guessing games;
+- ✨ Made using NetBeans IDE.
